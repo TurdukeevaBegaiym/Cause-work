@@ -36,3 +36,16 @@ h6 {
   max-width: 1288px;
   margin: 0 auto;
 }
+.text-bold {
+  font-weight: 700;/*будет жирным если добавим этот класс*/
+}
+
+.theme-blue-whte {
+ background-color: #162E3C;;
+ color: white;
+}
+
+.theme-green-blue {
+ background-color:#DDF0A7; ;
+ color:#162E3C ;
+}
